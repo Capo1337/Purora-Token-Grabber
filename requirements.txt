@@ -1,0 +1,11 @@
+psutil
+requests
+pypiwin32
+pycryptodome
+discord
+pillow
+psutil
+discord
+colorama
+pyinstaller
+
